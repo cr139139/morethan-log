@@ -11,6 +11,9 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
+    {
+      name: `Ho Jin Choi`,
+    },
   ],
   // blog setting (required)
   blog: {
