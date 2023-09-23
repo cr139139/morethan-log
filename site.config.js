@@ -2,20 +2,14 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Ho Jin Choi",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/with_robot.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Robotics researcher",
     bio: "I am a roboticist.",
     email: "hojin.choi1034@gmail.com",
-    linkedin: "ho-jin-choi",
+    linkedin: "ho-jin-choi-425856208",
     github: "cr139139",
     instagram: "",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
   // blog setting (required)
   blog: {
     title: "Ho Jin Choi",
